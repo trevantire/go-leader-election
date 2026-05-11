@@ -164,3 +164,5 @@ go test -v ./...
 ## License
 
 MIT License — see [LICENSE](LICENSE) for details.
+
+<!-- history: 2026-05-11 -->
