@@ -2,6 +2,10 @@
 
 ## Unreleased
 
+## 2026-05-16
+
+- feat: basic term management functionality
+
 ## 2026-05-15
 
 - feat: add core term management implementation
