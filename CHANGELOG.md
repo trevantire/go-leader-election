@@ -2,6 +2,10 @@
 
 ## Unreleased
 
+## 2026-05-17
+
+- feat: implement Raft consensus interface
+
 ## 2026-05-16
 
 - feat: basic term management functionality
