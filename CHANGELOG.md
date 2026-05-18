@@ -2,6 +2,10 @@
 
 ## Unreleased
 
+## 2026-05-18
+
+- wip: term management module skeleton
+
 ## 2026-05-17
 
 - feat: implement Raft consensus interface
