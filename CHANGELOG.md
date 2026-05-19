@@ -2,6 +2,10 @@
 
 ## Unreleased
 
+## 2026-05-19
+
+- feat: add core etcd backend implementation
+
 ## 2026-05-18
 
 - wip: term management module skeleton
