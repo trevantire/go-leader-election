@@ -2,6 +2,10 @@
 
 ## Unreleased
 
+## 2026-05-22
+
+- refactor: restructure etcd backend module
+
 ## 2026-05-21
 
 - test: add initial test suite
