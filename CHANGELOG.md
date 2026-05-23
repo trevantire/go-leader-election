@@ -2,6 +2,10 @@
 
 ## Unreleased
 
+## 2026-05-23
+
+- feat: add term management support
+
 ## 2026-05-22
 
 - refactor: restructure etcd backend module
