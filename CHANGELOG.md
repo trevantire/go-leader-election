@@ -2,6 +2,10 @@
 
 ## Unreleased
 
+## 2026-05-25
+
+- feat: improve Raft consensus handling
+
 ## 2026-05-23
 
 - feat: add term management support
