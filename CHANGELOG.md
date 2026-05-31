@@ -2,6 +2,10 @@
 
 ## Unreleased
 
+## 2026-05-31
+
+- docs: update README with examples
+
 ## 2026-05-29
 
 - feat: add term management support
