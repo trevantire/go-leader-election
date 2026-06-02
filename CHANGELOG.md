@@ -2,6 +2,10 @@
 
 ## Unreleased
 
+## 2026-06-02
+
+- fix: handle edge case in term management
+
 ## 2026-05-31
 
 - docs: update README with examples
