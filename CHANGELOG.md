@@ -2,6 +2,10 @@
 
 ## Unreleased
 
+## 2026-06-04
+
+- feat: add logging and diagnostics
+
 ## 2026-06-02
 
 - fix: handle edge case in term management
