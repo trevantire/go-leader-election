@@ -2,6 +2,10 @@
 
 ## Unreleased
 
+## 2026-06-06
+
+- refactor: clean up term management code
+
 ## 2026-06-05
 
 - chore: add CI configuration
