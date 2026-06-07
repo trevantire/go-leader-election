@@ -2,6 +2,10 @@
 
 ## Unreleased
 
+## 2026-06-07
+
+- docs: update README with examples
+
 ## 2026-06-06
 
 - refactor: clean up term management code
