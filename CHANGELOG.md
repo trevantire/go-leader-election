@@ -2,6 +2,8 @@
 
 ## Unreleased
 
+- feat: implement pre-vote protocol
+
 ## 2026-06-07
 
 - docs: update README with examples
