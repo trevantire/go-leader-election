@@ -2,6 +2,8 @@
 
 ## Unreleased
 
+- feat: support pre-vote protocol
+
 - feat: implement pre-vote protocol
 
 ## 2026-06-07
